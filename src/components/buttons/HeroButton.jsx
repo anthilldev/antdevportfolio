@@ -5,7 +5,7 @@ const HeroButton = () => {
   return (
 
     <div className="place-self-center">
-    <Link href='&apos;https://www.upwork.com/fl/~0190b9c73f1f2fdff2?s=1044578476142100494' >
+    <Link href="https://www.upwork.com/fl/~0190b9c73f1f2fdff2?s=1044578476142100494" >
     <button className="
     text-white 
     font-bold 
