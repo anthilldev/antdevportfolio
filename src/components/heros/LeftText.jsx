@@ -11,7 +11,7 @@ const LeftText = () => {
       it is my own. Give your website someone who cares about the outcome and 
       what the finished product will represent because that finished product will 
       always represent you as the face to your business. It is what most clients will 
-      see first and in most instances, your website can be a deal breaker for some if your website isn't what was expected of it. Sometimes 
+      see first and in most instances, your website can be a deal breaker for some if your website isn&apos;t what was expected of it. Sometimes 
       your website can have broken links as well as broken buttons that has not aged 
       well over time. You need professionals to look over your website and make sure you 
       are up and running without trouble at all times. I can be your 24 hours a day website bug security dev dedicated to ridding your website of all
